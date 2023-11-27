@@ -16,7 +16,7 @@ We take the security of user information seriously. The App employs industry-sta
 
 4. Third-Party Services:
 
-The "Girls Hair Style" app may contain links to third-party websites or services for informational or tutorial purposes. Please be aware that these third-party sites have their own privacy policies, and we are not responsible for their practices.
+The "Girls Hair Style" app does not contain links to third-party websites or services for informational or tutorial purposes. We upload our own videos and display in app.
 
 5. Children's Privacy:
 
@@ -28,7 +28,7 @@ We reserve the right to update or modify this Privacy Policy at any time without
 
 7. Contact Us:
 
-If you have any questions or concerns about this Privacy Policy or the "Girls Hair Style" app, please contact us at [your contact email].Privacy Policy for Girls Hair Style App
+If you have any questions or concerns about this Privacy Policy or the "Girls Hair Style" app, please contact us at finastratechnologies@gmail.com .Privacy Policy for Girls Hair Style App
 
 This Privacy Policy outlines the information practices for the "Girls Hair Style" mobile application ("the App"). The App is designed to provide users with hairstyle inspiration and tutorials without the need for user sign-in or the collection of personal information. The privacy and security of our users are of utmost importance to us.
 
